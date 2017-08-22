@@ -1,0 +1,14 @@
+{
+  "name": "attribute",
+  "repo": "rinterest-team/attribute",
+  "description": "abstract observer and observable",
+  "version": "0.1.0",
+  "keywords": ["class", "attribute"],
+  "scripts": ["index.js"],
+  "files": ["lib/**"],
+  "license": "MIT",
+  "dependencies": {
+    "rinterest-team/event-custom": "0.1.0",
+    "rinterest-team/util": "0.1.0"
+  }
+}

@@ -1,0 +1,1 @@
+@ attribute from KISSY
